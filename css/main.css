@@ -1,0 +1,33 @@
+main{
+    max-width: 980px;
+
+}
+.title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+
+#holds {
+    display: flex;
+    flex-direction: row;
+}
+
+.holds-wraper {
+    display: flex;
+    max-width: 100%;
+    flex-direction: row;
+
+}
+
+.holds-info {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
